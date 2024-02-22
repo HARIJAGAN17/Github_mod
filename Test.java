@@ -5,7 +5,7 @@ class Test{
     public static void main(String[] args)
     {
       Scanner ip = new Scanner(System.in);
-      String test = "Stashed--file";
+      String test = "stash commands";
       System.err.println(test);
       ip.close();
     }
