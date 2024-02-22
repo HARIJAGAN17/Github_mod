@@ -3,9 +3,10 @@ public class Dsa {
     public static void main(String[] args) {
         Scanner ip = new Scanner(System.in);
         int x =3;
-        int y = 4;
-        int sum = x+y;
+        int z = 4;
+        int sum = x+z;
+
         System.err.println(sum);
-        System.out.println(x+y);
+        System.out.println(x+z);
     }
 }
