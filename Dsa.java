@@ -4,6 +4,8 @@ public class Dsa {
         Scanner ip = new Scanner(System.in);
         int x =3;
         int y = 4;
+        int sum = x+y;
+        System.err.println(sum);
         System.out.println(x+y);
     }
 }
