@@ -7,6 +7,5 @@ public class Dsa {
         int sum = x+z;
 
         System.err.println(sum);
-        System.out.println(x+z);
     }
 }
