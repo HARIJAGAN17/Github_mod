@@ -1,5 +1,7 @@
-public class user {
+package Front end;
+
+public class Ui {
     public static void main(String[] args) {
-        int x = 66;
+        
     }
 }
